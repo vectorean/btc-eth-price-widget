@@ -1,0 +1,7 @@
+{
+  "uuid": "btc-eth-price-widget@myextensions.com",
+  "name": "BTC-ETH Price Widget",
+  "description": "Курс Bitcoin и Ethereum на панели",
+  "shell-version": [ "46" ],
+  "url": ""
+}
