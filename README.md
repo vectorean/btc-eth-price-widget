@@ -1,2 +1,2 @@
 # btc-eth-price-widget
-btc-eth-price-widget
+Tested on Gnome 46
